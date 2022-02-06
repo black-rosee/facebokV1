@@ -81,18 +81,17 @@ def jalan(z):
 # LO KONTOL
 def logo():
     print("""%s
-$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#
-╔════════════════════════════════════════════╗
-║       WELCOME TO TOOLS   {ROSE OF DARKNESS}        ║
-║              ARGECA 0910 BLACK ROSE                ║
-╚════════════════════════════════════════════╝
-#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$
-╔════════════════════════════════════════════╗
-║       FACEBOOK = Ǝ.ちᏎち  ツ︻ヸテணייי一一一   y      ║
-║    GITHUB   = https://github.com/kangrecords       ║
-║    #JANGAN DI SALAH GUNAKAN OKE TERIMA KASIH#      ║
-╚════════════════════════════════════════════╝
-$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#    """%(N))
+$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#
+================================================================
+FACEBOOK : https://www.facebook.com/profile.php?id=100076558267158
+GITHUB   : https://github.com/black-rosee/
+AUTHOR   : ROSE OF DARKNESS ARGECA 0910 BLACK ROSE
+================================================================
+         TOLONG JANGAN DI SALAH GUNAKAN TOOLS INI
+          GUNAKANLAH DENGAN BAIK DAN BIJAKSANA
+     KAMI TIDAK BERTANGGUNG JAWAB ATAS APA YANG TERJADI
+================================================================
+$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#    """%(N))
 
 #CRACK SELESAI
 def hasil(ok,cp):
